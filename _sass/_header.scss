@@ -23,7 +23,7 @@
     color: #000000;
     &,
     &:visited {
-        color: #ffffff;
+        color: #000000;
     }
     &,
     &:hover {
@@ -37,7 +37,7 @@
 }
 
 .site-nav ul li a {
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 
 .site-nav ul {
@@ -70,7 +70,7 @@
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+        color: #000000;
 }
 
 /* Sub Menu */
@@ -156,7 +156,7 @@ z-index:999;
     }
 
     .page-link {
-        color: #ffffff;
+        color: #8a1f54;
     background: $clemson-green;
         line-height: $base-line-height;
 
