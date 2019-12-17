@@ -4,7 +4,7 @@ title: Course Materials
 permalink: /course-materials/
 ---
 
-## C Programming Resources
+## Resources Books
 
 * **C++: How to program** H.M. Deitel and P.J. Deitel, C++ How to Program. 8th ed., Prentice-Hall Inc., 2100.
 
