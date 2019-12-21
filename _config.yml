@@ -1,7 +1,8 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Advanced Programming
-course_description: The purpose of this lesson is to present different ways of producing a quality program. In this regard, after the cover
+course_description: 
+The purpose of this lesson is to present different ways of producing a quality program. In this regard, after the cover
 a bottom-up design approach to problem-solving, providing students with object-oriented programming concepts as a tool for
 complexity management is introduced in medium to large applications. During the lesson, performance properly
 programs, tests, and debugging are focused on techniques such as unit testing, assertions, and
