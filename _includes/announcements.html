@@ -28,7 +28,6 @@
               {% endif %}">slides</a>]
                 {% endif %}
             {% elsif n.type == 'assignment' %}
-                New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
             {% endif %}
