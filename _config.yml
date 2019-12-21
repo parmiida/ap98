@@ -4,7 +4,7 @@ course_name: Advanced Programming
 course_description: In this course, we aim to introduce students to programming.
 course_semester: "Fall 2019"
 description: |
-    Instructor: Parmida Sanaye
+    Instructor: Dr.Marzie Maleki
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/ap98" # the subpath of your site, e.g. /blog/
@@ -13,9 +13,7 @@ syllabus: http://parmiida.github.io/ap98/syllabus/
 githubdir: 
 
 # Author/user information
-email: instructor-first-name@iust.ac.ir
-twitter_username: sauleh_e 
-github_username:  parmiida
+
 authorurl: "http://parmiida.github.io"
 address: |
     School of Computer Engineering

@@ -1,23 +1,5 @@
 instructor:
-  name: Sauleh Eetemadi
-  profile_pic: /_images/eetemadi.jpg
+  name: Marzie Maleki
+  profile_pic: 
 
 teaching_assistants:
-  - name: Amir Mohammad Ehsandar
-    profile_pic: /_images/avatar.png    
-
-  - name: Mohammad Javad Mirshekari
-    profile_pic: /_images/keyvan-mirshekari.jpg
-    
-  - name: Mohammad Mahdi Abdollahpour
-    profile_pic: /_images/avatar.png    
-
-  - name: Milad Esfandiyari
-    profile_pic : /_images/milad-esfandiarifar.jpg  
-
-  - name: Sepehr Babapour    
-    profile_pic: /_images/avatar.png
-
-  - name: Amir Khakpour
-    profile_pic: /_images/khakpour.jpg
-    
