@@ -4,10 +4,10 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<html lang="fa">
+<ol lang="fa">
     <body>
     <div dir="rtl">
-    <ul>
+    <ol>
     <li>مروري بر مباني برنامه سازی</li>
     <li>طراحي بالا به پايين</li>
     <li>مفاهيم پايه شيءگرايي: مدلسازي بر مبناي دنياي واقعي، لفافه بندي</li>
@@ -22,9 +22,9 @@ permalink: /syllabus/
     <li>پردازش متن و رشته ها</li>
     <li>مقدمه اي بر برنامه نويسي همروند</li>
     <li>آزمون و اشکال زدایی برنامه</li>
-    </ul>
+    </ol>
 
     </div>
     </body>
 
-</html>
+</ol>
