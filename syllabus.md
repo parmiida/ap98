@@ -5,7 +5,7 @@ permalink: /syllabus/
 ---
 
 
-<div dir="rtl"></div>
+<div dir="rtl">
 <p style="direction:rtl;text-align:right;"> 
     <h2>
             مروري بر مباني برنامه سازی۱-  
@@ -15,7 +15,7 @@ permalink: /syllabus/
         طراحي بالا به پايين-۲
 
 </h2>
-        طراحي بالا به پايين-۲
+
         <br>
         ۳-مفاهيم پايه شيءگرايي: مدلسازي بر مبناي دنياي واقعي، لفافه بندي
         <br>
@@ -40,3 +40,4 @@ permalink: /syllabus/
         ۱۳-مقدمه اي بر برنامه نويسي همروند
         <br>
         ۱۴-آزمون و اشکال زدایی برنامه</p>
+    </div>
