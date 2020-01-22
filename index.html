@@ -29,7 +29,7 @@ comments: true
     <br>
     <div>
         <div style="width:30%; float: left">
-            <h2><font color="orange"><strong><var>Course Instructor</var></strong></font></h2>
+            <h2><font color="#f97513"><strong><var>Course Instructor</var></strong></font></h2>
             <div class="image--cover-container">
                 <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
                 <p>{{site.data.people.instructor.name}}</p>
@@ -38,7 +38,7 @@ comments: true
 
         <div style="width:70%; float: left">
             <div class="profile-pic-gallary ">
-                <h2><strong><var>Teaching Assistants</var></strong></h2>
+            <h2><font color="#f97513"><strong><var>Teaching Assistants</var></strong></font></h2>
                 {% for ta in site.data.people.teaching_assistants %}
                 <div class="image--cover-container">
                     <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
