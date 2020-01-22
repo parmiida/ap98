@@ -4,19 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<HEAD>
-        [pre]
-
-        <META HTTP-EQUIV=”Content-Type” CONTENT=”text/html; charset=utf-8″>
-        <META HTTP-EQUIV=”Content-Language” CONTENT=”fa”>
-        
-        [/pre]
-
-</HEAD>
-
-
-<p style="text-align:right"> 
-        مروري بر مباني برنامه سازي۱. 
+<p style="direction:rtl;text-align:right;"> 
+        1.مروري بر مباني برنامه سازی  
         <br>
         طراحي بالا به پايين
         <br>
@@ -42,5 +31,4 @@ permalink: /syllabus/
         <br>
         مقدمه اي بر برنامه نويسي همروند
         <br>
-        آزمون و اشکال زدایی برنامه  </p>
-
+        آزمون و اشکال زدایی برنامه</p>
