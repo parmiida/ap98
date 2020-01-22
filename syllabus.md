@@ -4,9 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<html >
-
-
+<html lang="fa">
     <body>
     <div dir="rtl">
     <ul>
