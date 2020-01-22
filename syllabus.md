@@ -4,8 +4,13 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+
+
 <p style="direction:rtl;text-align:right;"> 
-        مروري بر مباني برنامه سازی-۱  
+    <h2>
+            مروري بر مباني برنامه سازی-۱  
+    </h2>
+   
         <br>
         طراحي بالا به پايين-۲
         <br>
