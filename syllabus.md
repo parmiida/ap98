@@ -5,7 +5,7 @@ permalink: /syllabus/
 ---
 
 
-
+<div dir="rtl"></div>
 <p style="direction:rtl;text-align:right;"> 
     <h2>
             مروري بر مباني برنامه سازی۱-  
