@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<ol lang="fa">
+<html lang="fa">
     <body>
     <div dir="rtl">
     <ol>
@@ -27,4 +27,4 @@ permalink: /syllabus/
     </div>
     </body>
 
-</ol>
+</html>
