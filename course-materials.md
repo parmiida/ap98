@@ -5,8 +5,8 @@ permalink: /course-materials/
 ---
 
 ## Resources Books
-* **MicrosoftVisualCSharpStepByStep**<a href="../static_files/materials/MicrosoftVisualCSharpStepByStep">PDF</a>
-* **CSharpBook by Rob Miles**<a href="../static_files/materials/CSharp+Book+2016+Rob+Miles+8.2">PDF</a>
+* **MicrosoftVisualCSharpStepByStep**<a href="../static_files/materials/MicrosoftVisualCSharpStepByStep.pdf">PDF</a>
+* **CSharpBook by Rob Miles**<a href="../static_files/materials/CSharp+Book+2016+Rob+Miles+8.2.pdf">PDF</a>
 
 
 
