@@ -1,6 +1,6 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: School of Computer Engineering-Advanced Programming
+course_name: Advanced Programming
 course_description: "The purpose of this lesson is to present different ways of producing a quality program. In this regard, after the cover
 a bottom-up design approach to problem-solving, providing students with object-oriented programming concepts as a tool for
 complexity management is introduced in medium to large applications. During the lesson, performance properly
@@ -8,7 +8,7 @@ programs, tests, and debugging are focused on techniques such as unit testing, a
 pre- and post-conditions are fulfilled. The lesson will focus on methods rather than the structures of a language
 Special programming. This lesson can be taught in any common object-oriented programming language such as Java or C ++."
 course_semester: "Fall 2019"
-description: |
+description: 
     Instructor: Dr.Marzieh Malekimajd
 
 message: #Register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
