@@ -4,11 +4,16 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<head>
+<HEAD>
+        [pre]
+
         <META HTTP-EQUIV=”Content-Type” CONTENT=”text/html; charset=utf-8″>
         <META HTTP-EQUIV=”Content-Language” CONTENT=”fa”>
+        
+        [/pre]
 
-</head>
+</HEAD>
+
 
 <p style="text-align:right"> 
         مروري بر مباني برنامه سازي۱. 
