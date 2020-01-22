@@ -4,10 +4,14 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+<head>
+        <META HTTP-EQUIV=”Content-Type” CONTENT=”text/html; charset=utf-8″>
+        <META HTTP-EQUIV=”Content-Language” CONTENT=”fa”>
 
+</head>
 
 <p style="text-align:right"> 
-        مروري بر مباني برنامه سازي 
+        مروري بر مباني برنامه سازي۱. 
         <br>
         طراحي بالا به پايين
         <br>
@@ -19,7 +23,7 @@ permalink: /syllabus/
         <br>
         مديريت حافظه - مقدمهاي بر داده ساختارهاي پويا
         <br>
-        برنامه نويسي عمومي (Generic)
+        برنامه نويسي عمومي  
         <br>
         رسيدگي به خطاها و استثناءها
         <br>
@@ -35,4 +39,3 @@ permalink: /syllabus/
         <br>
         آزمون و اشکال زدایی برنامه  </p>
 
-</div>
