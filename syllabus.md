@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-<html lang="en">
+<html lang="fa">
         <div dir="rtl">
             <h2>
             مروري بر مباني برنامه سازی-۱  
