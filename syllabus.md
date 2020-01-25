@@ -5,8 +5,20 @@ permalink: /syllabus/
 ---
 
 <html lang="fa">
+    <head>
+    <style>
+            p.serif {
+                font-family: "Times New Roman", Times, serif;
+            }
+            
+            p.sansserif {
+                font-family: Arial, Helvetica, sans-serif;
+            }
+    </style>
+    </head>
     <body>
     <div dir="rtl">
+        <p> سلام1. </p>
     <ul>
     <li>مروري بر مباني برنامه سازی</li>
     <li>طراحي بالا به پايين</li>
