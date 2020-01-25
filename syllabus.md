@@ -18,7 +18,7 @@ permalink: /syllabus/
     </head>
     <body>
     <div dir="rtl">
-        <p class="sansserif"> سلام1. </p>
+        <p class="Arial">مروری </p>
     <ul>
     <li>مروري بر مباني برنامه سازی</li>
     <li>طراحي بالا به پايين</li>
