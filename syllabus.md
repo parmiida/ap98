@@ -9,7 +9,7 @@ permalink: /syllabus/
     <body>
     <div dir="rtl">
 
-    <h1><font color=black>مروری بر مبانی برنامه سازی</font></h1>
+    <h1><font color="#111">مروری بر مبانی برنامه سازی</font></h1>
 
     <h1>مروري بر مباني برنامه سازی</h1>
     <h1>طراحي بالا به پايين</h1>
