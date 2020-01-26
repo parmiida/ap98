@@ -5,6 +5,7 @@ permalink: /lectures/
 ---
 
 
+
 <ul id="archive">
 {% for lecture in site.lectures reversed %}
 <li class="archiveposturl" style="background: transparent">
