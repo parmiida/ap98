@@ -1,6 +1,6 @@
 ---
 type: lecture
 date: 2019-10-13T8:00:00+4:30
-title: Session 5 - Hackathon Intro - Python Continued
-slides: /static_files/slides/session7and8ap.pdf
+title: Session 9
+slides: /static_files/slides/session9exceptionhandeling.pdf
 ---
