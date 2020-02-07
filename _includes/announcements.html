@@ -12,6 +12,7 @@
 {% assign all_events_sorted = all_events | sort: 'date' | reverse %}
 
 {% if all_events_sorted.size > 0 %}
+<div class="announcement-box" style="margin-top:30px">
 <ul>
     {% for n in all_events_sorted limit:7 %}
     <li class="no-p-margin">
@@ -25,7 +26,8 @@
                 {{ n.slides | prepend: site.baseurl }} 
               {% endif %}">slides</a>]
                 {% endif %}
-
+            {% elsif n.type == 'assignment' %}
+                New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
             {% endif %}
