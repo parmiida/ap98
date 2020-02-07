@@ -10,6 +10,9 @@ title: page.title
   </header>
 
   <div>
+    {% if page.due %}
+    <span style="font-weight: bold">Due Date: {{ page.due | jdate: "%Y/%m/%e" }} {{ page.due | date: "%H:%M" }}</span>
+    {% endif %}
     <p style="font-weight: bold">Download
       {% if page.pdf %}
       [<a href="{{ page.pdf | prepend: site.baseurl }}">problems</a>]
@@ -23,6 +26,8 @@ title: page.title
     </p>
 
     <div style="color: gray;">
+      <h3>Late Policy</h3>
+      {% include late_policy.html %}
     </div>
   </div>
 
