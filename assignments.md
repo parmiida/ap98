@@ -4,7 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 
-
+You can download the assignments here (in PDF format).
 
 <ul id="archive">
 {% for asg in site.assignments reversed %}
